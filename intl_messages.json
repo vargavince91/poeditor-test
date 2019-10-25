@@ -7,5 +7,5 @@
     "@derp": {
         "type": ""
     },
-    "new": "Hellooo new"
+    "new": "NEW is set from a different account let's see if we can trigger the commit..."
 }
