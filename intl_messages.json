@@ -2,5 +2,6 @@
     "pluralExample": "PLURAL IS SUPPORTED WTF?",
     "hello": "Hello",
     "yes": "Yes",
-    "importTerms": "Check if poeditor imports terms on push"
+    "importTerms": "Check if poeditor imports terms on push",
+    "derp": "This is a new translation testing a hook. On push, both the key and value should appear in POEditor"
 }
