@@ -1,0 +1,5 @@
+{
+  "pluralExample": "{howMany,plural, =0{Plural Nothing}=1{One {howMany} thing.}other{This many {howMany} things.}}",
+  "hello": "Hello",
+  "yes": "Yes"
+}
