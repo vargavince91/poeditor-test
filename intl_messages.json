@@ -1,5 +1,6 @@
 {
     "pluralExample": "PLURAL IS SUPPORTED WTF?",
     "hello": "Hello",
-    "yes": "Yes"
+    "yes": "Yes",
+    "importTerms": "Check if poeditor imports terms on push"
 }
