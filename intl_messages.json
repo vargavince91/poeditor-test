@@ -6,5 +6,6 @@
     "derp": "This is a new translation testing a hook. On push, both the key and value should appear in POEditor",
     "@derp": {
         "type": ""
-    }
+    },
+    "new": "ok"
 }
